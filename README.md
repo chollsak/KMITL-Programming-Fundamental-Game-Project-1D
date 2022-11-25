@@ -11,7 +11,9 @@ I want to say thanks to .....<br/>
 Mr. russs123: https://github.com/russs123/Shooter <br />
 Ms. tometoblush: https://github.com/ththanan <br/>
 <br/>
-Thank you! <3
+Thank you! <3<br/>
+<br/>
+![BATTLE OF SOLDIER](https://user-images.githubusercontent.com/83394467/204060355-bef6a1fc-595d-4b00-8fc6-fa6240392a8d.png)
 
 
 
