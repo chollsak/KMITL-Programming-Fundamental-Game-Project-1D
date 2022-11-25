@@ -2,6 +2,7 @@
 โปรเจคในรายวิชา Programming Fundamental สาขาวิศวกรรมคอมพิวเตอร์ ชั้นปีที่ 1 65010195 นายชลศักดิ์ อนุวารีพงษ์ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง<br />
 <br />
 ***Battle of Soldier***<br />
+***Game Development with Pygame***<br/>
 <br/>
 Youtube link: https://www.youtube.com/watch?v=o7M7IuFDgcI <br />
 Ref Youtube link: https://www.youtube.com/playlist?list=PLjcN1EyupaQm20hlUE11y9y8EY2aXLpnv <br/>
