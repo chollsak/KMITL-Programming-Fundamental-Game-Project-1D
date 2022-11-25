@@ -3,4 +3,12 @@
 <br />
 ***Battle of Soldier***<br />
 Youtube link: https://www.youtube.com/watch?v=o7M7IuFDgcI <br />
-Thank you so much Mr. russs123: https://github.com/russs123/Shooter <br />
+Ref Youtube link: https://www.youtube.com/playlist?list=PLjcN1EyupaQm20hlUE11y9y8EY2aXLpnv <br/>
+I want to say thanks to .....<br/>
+Mr. russs123: https://github.com/russs123/Shooter <br />
+Ms. tometoblush: https://github.com/ththanan <br/>
+Thank you! <3
+
+
+
+
