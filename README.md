@@ -1,5 +1,5 @@
 # KMITL-Programming-Fundamental-Game-Project-1D
-Programming Fundamental Game Development Project | Computer Engineering 1D 65010195 Chollasak Anuwareepong King Mongkut's Institute of Technology Ladkrabang.<br />
+01076103 Programming Fundamental Game Development Project | Computer Engineering 1D 65010195 Chollasak Anuwareepong King Mongkut's Institute of Technology Ladkrabang.<br />
 <br />
 ***"Game: Battle of Soldier"***<br />
 ***Game Development with Pygame***<br/>
