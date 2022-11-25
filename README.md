@@ -1,5 +1,5 @@
 # KMITL-Programming-Fundamental-Game-Project-1D
-โปรเจคในรายวิชา Programming Fundamental สาขาวิศวกรรมคอมพิวเตอร์ ชั้นปีที่ 1 65010195 นายชลศักดิ์ อนุวารีพงษ์ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง<br />
+Programming Fundamental Game Development Project | Computer Engineering 1D 65010195 Chollasak Anuwareepong King Mongkut's Institute of Technology Ladkrabang.<br />
 <br />
 ***"Game: Battle of Soldier"***<br />
 ***Game Development with Pygame***<br/>
